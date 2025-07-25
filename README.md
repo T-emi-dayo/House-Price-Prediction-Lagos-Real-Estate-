@@ -45,10 +45,9 @@ Follow these steps to set up the project and run the notebooks locally.
 First, clone this GitHub repository to your local machine:
 
 ```bash
-git clone [https://github.com/T-emi-dayo/Personality-Analysis-Dashboard.git](https://github.com/T-emi-dayo/Personality-Analysis-Dashboard.git)
-cd Personality-Analysis-Dashboard
+git clone [https://github.com/T-emi-dayo/House-Price-Prediction-Lagos-Real-Estate-](https://github.com/T-emi-dayo/House-Price-Prediction-Lagos-Real-Estate-.git)
+cd House-Price-Prediction-Lagos-Real-Estate
 ```
-(Please note: The repository name `Personality-Analysis-Dashboard` might not perfectly match the content of this housing price prediction project. You may consider renaming your repository on GitHub to reflect the housing analysis.)
 
 ### 2. Create and Activate a Virtual Environment
 
